@@ -24,10 +24,7 @@ Single Prediction: This folder should contain images you want to classify after 
 
 Setup Instructions
 1. Clone the Repository or Download the Files
-To get started, you can either clone the repository or download the notebook and dataset directly. If you are cloning the repository:
-bash
-Copy code
-git clone https://your-repository-link.com
+To get started, you can either clone the repository or download the notebook and dataset directly. 
 
 2. Install Dependencies
 Make sure you have Python 3.7+ and the required libraries installed. You can install the dependencies using pip:

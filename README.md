@@ -24,15 +24,16 @@ Single Prediction: This folder should contain images you want to classify after 
 
 Setup Instructions
 1. Clone the Repository or Download the Files
-To get started, you can either clone the repository or download the notebook and dataset directly. 
+To get started, you can either clone the repository or download the notebook and dataset directly.
+repository link: https://github.com/Varshitha0612/CNN-for-Image-Classification
 
-2. Install Dependencies
+3. Install Dependencies
 Make sure you have Python 3.7+ and the required libraries installed. You can install the dependencies using pip:
 bash
 Copy code
 pip install -r requirements.txt
 
-3. Prepare the Dataset
+4. Prepare the Dataset
 Download the dataset from the cloud storage link above and place it in the appropriate folder structure:
 markdown
 Copy code
@@ -45,13 +46,13 @@ dataset/
       ├── dogs/
   ├── single_prediction/
 
-4. Run the Jupyter Notebook
+5. Run the Jupyter Notebook
 Open the Jupyter notebook (CNN for Image Classification.ipynb) in your preferred environment (e.g., Jupyter Notebook or JupyterLab). You can run it by navigating to the folder containing the notebook and typing:
 bash
 Copy code
 jupyter notebook CNN\ for\ Image\ Classification.ipynb
 
-5. Train and Predict
+6. Train and Predict
 Train the model by running the code cells in the notebook.
 Use the predict_image() function to classify a new image of a cat or a dog.
 Model Evaluation
